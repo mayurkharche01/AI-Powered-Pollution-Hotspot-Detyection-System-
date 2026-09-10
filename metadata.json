@@ -1,0 +1,6 @@
+{
+  "name": "CleanAir and Clear Streets HUD",
+  "description": "AI-powered Hyperlocal Pollution Intelligence Platform merging citizen reports, satellite imagery, and IoT fusion for real-time hotspot detection and predictive urban analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
